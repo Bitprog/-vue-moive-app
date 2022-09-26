@@ -41,7 +41,7 @@ export default {
         },
         {
           name: "About",
-          href: "about",
+          href: "/about",
         },
       ],
     };
